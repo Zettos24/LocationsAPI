@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CONFIG/CONFIG.iml" filepath="$PROJECT_DIR$/CONFIG/CONFIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LocationsAPI.iml" filepath="$PROJECT_DIR$/.idea/LocationsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MONGO/MONGO.iml" filepath="$PROJECT_DIR$/MONGO/MONGO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MYSQL/MYSQL.iml" filepath="$PROJECT_DIR$/MYSQL/MYSQL.iml" />
+    </modules>
+  </component>
+</project>
