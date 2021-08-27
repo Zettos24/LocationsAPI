@@ -21,19 +21,19 @@ public final class LocationsAPI extends JavaPlugin {
 
 
     @SneakyThrows
-    public static void saveLocation(String key,Location location){
-        cfg.set(key,location);
+    public static void saveLocation(String ID,Location location){
+        cfg.set(ID,location);
         saveFile();
     }
 
     @SneakyThrows
-    public static void deleteLocation(String key){
-        cfg.set(key,null);
+    public static void deleteLocation(String ID){
+        cfg.set(ID,null);
         saveFile();
     }
 
-    public static Location getLocation(String key){
-        return (Location) cfg.get(key);
+    public static Location getLocation(String ID){
+        return (Location) cfg.get(ID);
     }
 
     @SneakyThrows

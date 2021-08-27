@@ -1,5 +1,4 @@
 name: LocationsAPI
 version: ${project.version}
 main: de.zettos.locationsapi.LocationsAPI
-api-version: 1.16
 authors: [ Zettos ]
